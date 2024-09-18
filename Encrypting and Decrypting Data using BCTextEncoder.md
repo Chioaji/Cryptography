@@ -4,7 +4,7 @@
 
 Berikut adalah konsep dasar enkripsi dan dekripsi menggunakan BCTextEncoder:
 
-## 1. Enkripsi (Encrypting Data)
+### 1. Enkripsi (Encrypting Data)
 Enkripsi adalah proses mengubah data asli (plaintext) menjadi bentuk tidak terbaca (ciphertext) agar informasi tersebut terlindungi. BCTextEncoder menggunakan algoritma enkripsi untuk mengubah teks menjadi bentuk terenkripsi dengan menggunakan kunci tertentu.
 Langkah pertama untuk melakukan Encrypting text adalah dengan memasukkan plaintetx kedalam text box lalu klik `Encode`
 ![11](https://github.com/user-attachments/assets/d2e41a81-030b-4125-b0c7-19d83d17b584)
@@ -14,7 +14,7 @@ Lalu kita diminta untuk membuat password untuk encrypt dan decrypt nanti
 Jika berhasil maka output atau hasil encrypt text kita akan muncul di kolom bawah seperti di gambar.
 ![15](https://github.com/user-attachments/assets/b44bce15-6935-4301-816a-ebacb35ae404)
 
-## 2. Dekripsi (Decrypting Data)
+### 2. Dekripsi (Decrypting Data)
 Dekripsi adalah kebalikan dari enkripsi. Dengan dekripsi, ciphertext diubah kembali menjadi bentuk asli (plaintext) menggunakan kunci yang sama yang digunakan untuk enkripsi. Tanpa kunci yang benar, ciphertext tidak bisa dikembalikan ke plaintext.
 Untuk melakukan Decrypting text kita perlu menghapus plain text yang ada di text box, jika sudah kita klik tombol `Decode`
 ![13](https://github.com/user-attachments/assets/90953f62-d3a8-41d7-8d9a-64070ff2c611)
